@@ -21,6 +21,7 @@ class App extends Component {
             projectId: "auth-b9760",
             storageBucket: "auth-b9760.appspot.com",
             messagingSenderId: "864929195087"
+
         };
         firebase.initializeApp(config);
 
